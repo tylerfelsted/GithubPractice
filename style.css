@@ -1,6 +1,6 @@
 h1 {
 	background-color: blueviolet;
-	font-size: 15rem;
+	font-size: 10rem;
 }
 
 p {
@@ -8,4 +8,5 @@ p {
 	font-size: large;
 	color: blue;
 	text-decoration: underline;
+	font-size: 2rem;
 }
