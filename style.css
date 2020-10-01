@@ -1,8 +1,9 @@
 h1 {
 	background-color: blueviolet;
+	font-size: 5rem;
 }
 p {
-	background-color: coral;
+	background-color: pink;
 	font-size: large;
 	color: blue;
 	text-decoration: underline;
