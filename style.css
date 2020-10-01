@@ -6,6 +6,6 @@ h1 {
 p {
 	background-color: teal;
 	font-size: large;
-	color: blue;
-	text-decoration: underline;
+	color: green;
+	/* text-decoration: underline; */
 }
