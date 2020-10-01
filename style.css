@@ -1,9 +1,10 @@
 h1 {
 	background-color: blueviolet;
-	font-size: 5rem;
+	font-size: 15rem;
 }
+
 p {
-	background-color: pink;
+	background-color: teal;
 	font-size: large;
 	color: blue;
 	text-decoration: underline;
