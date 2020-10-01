@@ -6,12 +6,7 @@ h1 {
 p {
 	background-color: teal;
 	font-size: large;
-<<<<<<< HEAD
-	color: green;
-	/* text-decoration: underline; */
-=======
 	color: blue;
 	text-decoration: underline;
 	font-size: 2rem;
->>>>>>> change-font-size
 }
