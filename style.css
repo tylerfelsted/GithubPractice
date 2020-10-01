@@ -1,11 +1,17 @@
 h1 {
 	background-color: blueviolet;
-	font-size: 15rem;
+	font-size: 10rem;
 }
 
 p {
 	background-color: teal;
 	font-size: large;
+<<<<<<< HEAD
 	color: green;
 	/* text-decoration: underline; */
+=======
+	color: blue;
+	text-decoration: underline;
+	font-size: 2rem;
+>>>>>>> change-font-size
 }
